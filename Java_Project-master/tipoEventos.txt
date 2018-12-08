@@ -1,0 +1,4 @@
+1#Conferência
+2#Workshop
+3#Palestra
+4#Seminário
